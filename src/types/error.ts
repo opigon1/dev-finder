@@ -1,4 +1,4 @@
-export type GitGubError = {
+export type GitHubError = {
     message: string,
     documentation_url: string
 }

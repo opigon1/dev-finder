@@ -3,7 +3,6 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  transition: background-color 0.2s, color 0.2s;
 }
 
 :root {
